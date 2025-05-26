@@ -1,0 +1,3 @@
+[submodule "pipelines/nf-core-rnaseq"]
+	path = pipelines/nf-core-rnaseq
+	url = https://github.com/robomonk/rnaseq.git
